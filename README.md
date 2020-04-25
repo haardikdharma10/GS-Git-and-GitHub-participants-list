@@ -8,5 +8,5 @@
 
 ## Participants
 
-1. [Haardik Dharma] (https://github.com/haardikdharma10)
+1. [Haardik Dharma](https://github.com/haardikdharma10)
 
